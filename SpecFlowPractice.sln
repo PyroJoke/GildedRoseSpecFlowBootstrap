@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowPractice", "SpecFlowPractice\SpecFlowPractice.csproj", "{432F21D4-E5D0-4470-BEBF-171CDD0ED789}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose", "GildedRose\GildedRose.csproj", "{9BEB6685-6460-4965-A6B4-CF7503007A9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{432F21D4-E5D0-4470-BEBF-171CDD0ED789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{432F21D4-E5D0-4470-BEBF-171CDD0ED789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{432F21D4-E5D0-4470-BEBF-171CDD0ED789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BEB6685-6460-4965-A6B4-CF7503007A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BEB6685-6460-4965-A6B4-CF7503007A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BEB6685-6460-4965-A6B4-CF7503007A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BEB6685-6460-4965-A6B4-CF7503007A9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
